@@ -1,0 +1,13 @@
+export const CoffeeShop = [
+    {label: 'Avenue Mocha Lyon', adress: 'Lyon', photo: 'lyon', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '45.7603831', long: '4.849664',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Paris', adress: 'Paris', photo: 'marseille', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '48.856614', long: '2.3522219',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Marseille', adress: 'Marseille', photo: 'montpellier', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '43.296482', long: '5.36978',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Bordeaux', adress: 'Bordeaux', photo: 'bordeaux', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '44.8378', long: '-0.594',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Montpellier', adress: 'Montpellier', photo: 'montpellier', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '43.610769', long: '3.876716',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Chambery', adress: 'Chambery', photo: 'chambery', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '45.564601', long: '5.917781',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Lille', adress: 'Lille', photo: 'lille', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '50.62925', long: '3.057256',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Nantes', adress: 'Nantes', photo: 'nantes', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '47.218371', long: '-1.553621',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Grenoble', adress: 'Grenoble', photo: 'grenoble', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '45.188529', long: '5.724524',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Cannes', adress: 'Cannes', photo: 'cannes', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '43.5513', long: '7.01195',}, horaire: 'Tous les jours 6h - 20h'},
+    {label: 'Avenue Mocha Monaco', adress: 'Monaco', photo: 'monaco', phone: '+"33 4 00 00 00 00', desc: 'Un autre facon de boire votre café', coor: {latt: '43.733334', long: '7.416667',}, horaire: 'Tous les jours 6h - 20h'},
+  ];

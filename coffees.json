@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "62348882b4ebc1421b448e2c"
+  },
+  "photo": "cafeexpresso.jpg",
+  "titre": "Café Espresso",
+  "ingredients": "Café, Eau",
+  "description": "4 cl de café",
+  "nutrition": "cafestol, fibre et kahweo",
+  "calorie": 10,
+  "proteine": 0.1,
+  "time": null,
+  "price": 2,
+  "createdAt": {
+    "$date": "2022-03-18T13:15:18.846Z"
+  },
+  "__v": 0,
+  "cafein": 40
+},{
+  "_id": {
+    "$oid": "62348927b4ebc1421b448e2e"
+  },
+  "photo": "cafelong.jpg",
+  "titre": "Café Allongé",
+  "ingredients": "Café, Eau",
+  "description": "10 cl de café",
+  "nutrition": "cafestol, fibre et kahweo",
+  "calorie": 20,
+  "proteine": 0.2,
+  "time": null,
+  "price": 3,
+  "cafeine": 45,
+  "createdAt": {
+    "$date": "2022-03-18T13:15:18.846Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623489feb4ebc1421b448e30"
+  },
+  "photo": "capuccino.jpg",
+  "titre": "Capuccino",
+  "ingredients": "Café, Crème, Eau, Cacao",
+  "description": "10 cl de café",
+  "nutrition": "cafestol, fibre et kahweo",
+  "calorie": 40,
+  "proteine": 0.4,
+  "time": null,
+  "price": 7,
+  "cafeine": 30,
+  "createdAt": {
+    "$date": "2022-03-18T13:15:18.846Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62348a40b4ebc1421b448e32"
+  },
+  "photo": "cafecreme.jpg",
+  "titre": "Café Crème",
+  "ingredients": "Café Crème, Eau",
+  "description": "10 cl de café",
+  "nutrition": "cafestol, fibre et kahweo",
+  "calorie": 30,
+  "proteine": 0.3,
+  "time": null,
+  "price": 5,
+  "cafeine": 25,
+  "createdAt": {
+    "$date": "2022-03-18T13:15:18.846Z"
+  },
+  "__v": 0
+}]

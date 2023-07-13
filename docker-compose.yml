@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+    backend:
+      build: ./back
+      restart: always
+      volumes:
+        - ${PWD}/back:/app
+        - common:/apk
+      ports:
+        - "8080:8080"
+      links:
+        - mongo
+    mongo:
+      image: mongo
+      ports:
+        - "27017:27017"
+      volumes:
+        - mongodata:/data/db
+      env_file:
+        - ./back/.env
+      restart: unless-stopped
+volumes:
+  mongodata:
+  common:

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "634455021091",
+    "project_id": "avenuemocha-2e8f9",
+    "storage_bucket": "avenuemocha-2e8f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634455021091:android:ecad8802b050ede2fe4396",
+        "android_client_info": {
+          "package_name": "com.avenue_mocha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634455021091-p616sg338s55kcr8nk72q8c41m2iool8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkSHSkwADnXzY33E_2ew0QxEUZXXsUPPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634455021091-p616sg338s55kcr8nk72q8c41m2iool8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "634455021091-ot9fhgds1gbssjjb4chffnqren4421ae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Avenue-Mocha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
